@@ -1,0 +1,94 @@
+name: Sync Notebooks from Deep-Learning-Notes
+
+on:
+  repository_dispatch:
+    types:
+      - sync-dnnl-zh
+      - sync-dnnl-en
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: sync-notebooks
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Sync ${{ github.event.client_payload.lang }} notebooks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout dnnl-notebooks
+        uses: actions/checkout@v6
+      
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: 3.14
+
+      - name: Download artifact from deep-learning-notes
+        uses: actions/download-artifact@v8
+        with:
+          name: ${{ github.event.client_payload.artifact_name }}
+          path: /tmp/dnnl-artifact
+          repository: ${{ github.event.client_payload.source_repo }}
+          run-id: ${{ github.event.client_payload.run_id }}
+          github-token: ${{ secrets.DNNL_SYNC2_TOKEN }}
+
+      - name: Extract artifact
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          ls -lah /tmp/dnnl-artifact
+
+          tar -xzf "/tmp/dnnl-artifact/${{ github.event.client_payload.archive_name }}" -C /tmp/dnnl-artifact
+
+          test -d "/tmp/dnnl-artifact/${{ github.event.client_payload.lang }}"
+
+      - name: Replace target language directory
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          lang="${{ github.event.client_payload.lang }}"
+
+          if [ "$lang" != "zh" ] && [ "$lang" != "en" ]; then
+            echo "Unsupported lang: $lang"
+            exit 1
+          fi
+
+          rm -rf "$lang"
+          cp -r "/tmp/dnnl-artifact/$lang" "./$lang"
+
+      - name: Generate notebook tables of contents
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          python utils/generate_toc.py \
+            --github-repo "${{ github.repository }}" \
+            --branch main
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          lang="${{ github.event.client_payload.lang }}"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -A "$lang"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit for $lang"
+          else
+            git commit -m "Sync ${lang} notebooks from deep-learning-notes artifact"
+
+            git pull --rebase origin main
+            git push origin main
+          fi
