@@ -110,3 +110,15 @@
 | File | Colab |
 | :---: | :---: |
 | [ch15.1-clip](ch15-vision-language-models/ch15.1-clip.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch15-vision-language-models/ch15.1-clip.ipynb) |
+
+## ch18-gpt2-from-scratch
+
+| File | Colab |
+| :---: | :---: |
+| [ch18.1-next-token-prediction](ch18-gpt2-from-scratch/ch18.1-next-token-prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.1-next-token-prediction.ipynb) |
+| [ch18.2-minigpt](ch18-gpt2-from-scratch/ch18.2-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.2-minigpt.ipynb) |
+| [ch18.3-tokenizer](ch18-gpt2-from-scratch/ch18.3-tokenizer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.3-tokenizer.ipynb) |
+| [ch18.4-weight-tying](ch18-gpt2-from-scratch/ch18.4-weight-tying.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.4-weight-tying.ipynb) |
+| [ch18.5-train-minigpt](ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) |
+| [ch18.6-generation](ch18-gpt2-from-scratch/ch18.6-generation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.6-generation.ipynb) |
+| [ch18.7-gpt2-vs-minigpt](ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) |
