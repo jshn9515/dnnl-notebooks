@@ -46,6 +46,19 @@
 | [ch4.8-optimizer-practice](ch4-optimization-algorithms/ch4.8-optimizer-practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch4-optimization-algorithms/ch4.8-optimizer-practice.ipynb) |
 | [ch4.9-learning-rate-schedulers](ch4-optimization-algorithms/ch4.9-learning-rate-schedulers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch4-optimization-algorithms/ch4.9-learning-rate-schedulers.ipynb) |
 
+## ch7-regularization-and-normalization
+
+| File | Colab |
+| :---: | :---: |
+| [ch7.1-why-regularization-and-normalization](ch7-regularization-and-normalization/ch7.1-why-regularization-and-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.1-why-regularization-and-normalization.ipynb) |
+| [ch7.2-dropout](ch7-regularization-and-normalization/ch7.2-dropout.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.2-dropout.ipynb) |
+| [ch7.3-batch-normalization](ch7-regularization-and-normalization/ch7.3-batch-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.3-batch-normalization.ipynb) |
+| [ch7.4-layer-normalization](ch7-regularization-and-normalization/ch7.4-layer-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.4-layer-normalization.ipynb) |
+| [ch7.5-instance-normalization](ch7-regularization-and-normalization/ch7.5-instance-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.5-instance-normalization.ipynb) |
+| [ch7.6-group-normalization](ch7-regularization-and-normalization/ch7.6-group-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.6-group-normalization.ipynb) |
+| [ch7.7-rms-normalization](ch7-regularization-and-normalization/ch7.7-rms-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.7-rms-normalization.ipynb) |
+| [ch7.8-normalization-unified-view](ch7-regularization-and-normalization/ch7.8-normalization-unified-view.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch7-regularization-and-normalization/ch7.8-normalization-unified-view.ipynb) |
+
 ## ch8-attention-and-transformer
 
 | File | Colab |
