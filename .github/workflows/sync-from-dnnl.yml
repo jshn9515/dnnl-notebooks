@@ -43,9 +43,7 @@ jobs:
           set -euo pipefail
 
           ls -lah /tmp/dnnl-artifact
-
           tar -xzf "/tmp/dnnl-artifact/${{ github.event.client_payload.archive_name }}" -C /tmp/dnnl-artifact
-
           test -d "/tmp/dnnl-artifact/${{ github.event.client_payload.lang }}"
 
       - name: Replace target language directory
