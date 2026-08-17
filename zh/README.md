@@ -135,3 +135,9 @@
 | [ch18.5-train-minigpt](ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) |
 | [ch18.6-generation](ch18-gpt2-from-scratch/ch18.6-generation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.6-generation.ipynb) |
 | [ch18.7-gpt2-vs-minigpt](ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) |
+
+## ch19-llm-training-engineering
+
+| File | Colab |
+| :---: | :---: |
+| [ch19.1-memory-ledger](ch19-llm-training-engineering/ch19.1-memory-ledger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch19-llm-training-engineering/ch19.1-memory-ledger.ipynb) |
