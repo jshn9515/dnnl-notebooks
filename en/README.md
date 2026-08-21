@@ -7,6 +7,8 @@
 | [ch1.1-neural-network](ch1-introduction/ch1.1-neural-network.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch1-introduction/ch1.1-neural-network.ipynb) |
 | [ch1.2-loss-function](ch1-introduction/ch1.2-loss-function.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch1-introduction/ch1.2-loss-function.ipynb) |
 | [ch1.3-computation-graph](ch1-introduction/ch1.3-computation-graph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch1-introduction/ch1.3-computation-graph.ipynb) |
+| [ch1.4-gradient-descent](ch1-introduction/ch1.4-gradient-descent.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch1-introduction/ch1.4-gradient-descent.ipynb) |
+| [ch1.5-why-neural-networks-can-be-trained](ch1-introduction/ch1.5-why-neural-networks-can-be-trained.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch1-introduction/ch1.5-why-neural-networks-can-be-trained.ipynb) |
 
 ## ch2-pytorch-introduction
 
@@ -46,6 +48,30 @@
 | [ch4.7-muon](ch4-optimization-algorithms/ch4.7-muon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch4-optimization-algorithms/ch4.7-muon.ipynb) |
 | [ch4.8-optimizer-practice](ch4-optimization-algorithms/ch4.8-optimizer-practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch4-optimization-algorithms/ch4.8-optimizer-practice.ipynb) |
 | [ch4.9-learning-rate-schedulers](ch4-optimization-algorithms/ch4.9-learning-rate-schedulers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch4-optimization-algorithms/ch4.9-learning-rate-schedulers.ipynb) |
+
+## ch5-convolutional-neural-network
+
+| File | Colab |
+| :---: | :---: |
+| [ch5.1-from-mlp-to-cnn](ch5-convolutional-neural-network/ch5.1-from-mlp-to-cnn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.1-from-mlp-to-cnn.ipynb) |
+| [ch5.2-convolution](ch5-convolutional-neural-network/ch5.2-convolution.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.2-convolution.ipynb) |
+| [ch5.3-conv2d-from-scratch](ch5-convolutional-neural-network/ch5.3-conv2d-from-scratch.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.3-conv2d-from-scratch.ipynb) |
+| [ch5.4-pooling-and-downsampling](ch5-convolutional-neural-network/ch5.4-pooling-and-downsampling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.4-pooling-and-downsampling.ipynb) |
+| [ch5.5-build-a-simple-cnn](ch5-convolutional-neural-network/ch5.5-build-a-simple-cnn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.5-build-a-simple-cnn.ipynb) |
+| [ch5.6-lenet](ch5-convolutional-neural-network/ch5.6-lenet.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.6-lenet.ipynb) |
+
+## ch7-regularization-and-normalization
+
+| File | Colab |
+| :---: | :---: |
+| [ch7.1-why-regularization-and-normalization](ch7-regularization-and-normalization/ch7.1-why-regularization-and-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.1-why-regularization-and-normalization.ipynb) |
+| [ch7.2-dropout](ch7-regularization-and-normalization/ch7.2-dropout.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.2-dropout.ipynb) |
+| [ch7.3-batch-normalization](ch7-regularization-and-normalization/ch7.3-batch-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.3-batch-normalization.ipynb) |
+| [ch7.4-layer-normalization](ch7-regularization-and-normalization/ch7.4-layer-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.4-layer-normalization.ipynb) |
+| [ch7.5-instance-normalization](ch7-regularization-and-normalization/ch7.5-instance-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.5-instance-normalization.ipynb) |
+| [ch7.6-group-normalization](ch7-regularization-and-normalization/ch7.6-group-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.6-group-normalization.ipynb) |
+| [ch7.7-rms-normalization](ch7-regularization-and-normalization/ch7.7-rms-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.7-rms-normalization.ipynb) |
+| [ch7.8-normalization-unified-view](ch7-regularization-and-normalization/ch7.8-normalization-unified-view.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.8-normalization-unified-view.ipynb) |
 
 ## ch9-attention-and-transformer
 
@@ -99,3 +125,21 @@
 | [ch14.3-ddpm-reverse](ch14-diffusion-models/ch14.3-ddpm-reverse.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.3-ddpm-reverse.ipynb) |
 | [ch14.4-ddpm-design-and-sampling](ch14-diffusion-models/ch14.4-ddpm-design-and-sampling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.4-ddpm-design-and-sampling.ipynb) |
 | [ch14.5-elbo-for-ddpm](ch14-diffusion-models/ch14.5-elbo-for-ddpm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.5-elbo-for-ddpm.ipynb) |
+
+## ch18-gpt2-from-scratch
+
+| File | Colab |
+| :---: | :---: |
+| [ch18.1-next-token-prediction](ch18-gpt2-from-scratch/ch18.1-next-token-prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.1-next-token-prediction.ipynb) |
+| [ch18.2-minigpt](ch18-gpt2-from-scratch/ch18.2-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.2-minigpt.ipynb) |
+| [ch18.3-tokenizer](ch18-gpt2-from-scratch/ch18.3-tokenizer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.3-tokenizer.ipynb) |
+| [ch18.4-weight-tying](ch18-gpt2-from-scratch/ch18.4-weight-tying.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.4-weight-tying.ipynb) |
+| [ch18.5-train-minigpt](ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) |
+| [ch18.6-generation](ch18-gpt2-from-scratch/ch18.6-generation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.6-generation.ipynb) |
+| [ch18.7-gpt2-vs-minigpt](ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) |
+
+## ch19-llm-training-engineering
+
+| File | Colab |
+| :---: | :---: |
+| [ch19.1-memory-ledger](ch19-llm-training-engineering/ch19.1-memory-ledger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch19-llm-training-engineering/ch19.1-memory-ledger.ipynb) |
