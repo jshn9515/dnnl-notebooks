@@ -1,0 +1,38 @@
+name: Publish Notebook Archives
+
+on:
+  release:
+    types:
+      - published
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    name: Package and publish notebooks
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Package notebook directories
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          tar -czf dnnl-notebooks-zh.tar.gz zh
+          tar -czf dnnl-notebooks-en.tar.gz en
+
+      - name: Upload archives to release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          gh release upload "${{ github.event.release.tag_name }}" \
+            dnnl-notebooks-zh.tar.gz \
+            dnnl-notebooks-en.tar.gz \
+            --clobber
