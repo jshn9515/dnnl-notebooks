@@ -143,3 +143,4 @@
 | File | Colab |
 | :---: | :---: |
 | [ch19.1-memory-ledger](ch19-llm-training-engineering/ch19.1-memory-ledger.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch19-llm-training-engineering/ch19.1-memory-ledger.ipynb) |
+| [ch19.8-modern-attention-apis](ch19-llm-training-engineering/ch19.8-modern-attention-apis.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch19-llm-training-engineering/ch19.8-modern-attention-apis.ipynb) |
