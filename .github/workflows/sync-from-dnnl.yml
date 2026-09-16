@@ -1,4 +1,4 @@
-name: Sync Notebooks from Deep-Learning-Notes
+name: Sync Jupyter Notebooks
 
 on:
   repository_dispatch:
