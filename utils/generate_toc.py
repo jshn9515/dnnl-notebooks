@@ -27,6 +27,11 @@ def parse_args() -> argparse.Namespace:
         '--branch',
         help='Git branch for Colab links. Inferred from the current branch when omitted.',
     )
+    parser.add_argument(
+        '--language',
+        choices=LANGUAGES,
+        help='Generate the table of contents for only this language.',
+    )
     return parser.parse_args()
 
 
@@ -119,6 +124,8 @@ def collect_notebooks(root: Path, language: str) -> list[Path]:
         paths = language_root.rglob('*.ipynb')
 
     for path in paths:
+        if visible_files is not None and not (root / path).is_file():
+            continue
         if path.suffix != '.ipynb':
             continue
         if path.name == 'README.ipynb':
@@ -182,7 +189,8 @@ def main():
             'Could not infer a GitHub repository. Pass --github-repo OWNER/REPO.'
         )
 
-    for language in LANGUAGES:
+    languages = (args.language,) if args.language else LANGUAGES
+    for language in languages:
         notebooks = collect_notebooks(ROOT, language)
         if not notebooks and not (ROOT / language).exists():
             continue
