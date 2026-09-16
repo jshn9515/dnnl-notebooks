@@ -155,7 +155,7 @@ def generate_readme(
     branch: str,
 ) -> str:
     """Generate the README.md content for the given language tree."""
-    lines = ['# Table of Contents', '']
+    lines = ['# Deep Learning Notes', '']
     current_chapter = None
 
     for notebook in notebooks:
