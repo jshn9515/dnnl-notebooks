@@ -1,5 +1,8 @@
 # DNNL Notebooks
 
+[![Sync Jupyter Notebooks](https://github.com/jshn9515/dnnl-notebooks/actions/workflows/sync-from-dnnl.yml/badge.svg)](https://github.com/jshn9515/dnnl-notebooks/actions/workflows/sync-from-dnnl.yml)
+[![Sync Jupyter Notebooks](https://github.com/jshn9515/dnnl-notebooks/actions/workflows/sync-from-dnnl.yml/badge.svg)](https://github.com/jshn9515/dnnl-notebooks/actions/workflows/sync-from-dnnl.yml)
+
 **English** | [简体中文](README-zh.md)
 
 ![dnnl-title](assets/dnnl-title.png)
