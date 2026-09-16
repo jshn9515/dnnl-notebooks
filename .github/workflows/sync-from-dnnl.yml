@@ -22,6 +22,8 @@ jobs:
     steps:
       - name: Checkout dnnl-notebooks
         uses: actions/checkout@v7
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v7
@@ -68,7 +70,8 @@ jobs:
 
           python utils/generate_toc.py \
             --github-repo "${{ github.repository }}" \
-            --branch main
+            --branch main \
+            --language "${{ github.event.client_payload.lang }}"
 
       - name: Commit changes
         shell: bash
