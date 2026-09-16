@@ -1,4 +1,4 @@
-# Table of Contents
+# Deep Learning Notes
 
 ## ch1-introduction
 
