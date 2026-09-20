@@ -60,18 +60,18 @@
 | [ch5.5-build-a-simple-cnn](ch5-convolutional-neural-network/ch5.5-build-a-simple-cnn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.5-build-a-simple-cnn.ipynb) |
 | [ch5.6-lenet](ch5-convolutional-neural-network/ch5.6-lenet.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch5-convolutional-neural-network/ch5.6-lenet.ipynb) |
 
-## ch7-regularization-and-normalization
+## ch6-regularization-and-normalization
 
 | File | Colab |
 | :---: | :---: |
-| [ch7.1-why-regularization-and-normalization](ch7-regularization-and-normalization/ch7.1-why-regularization-and-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.1-why-regularization-and-normalization.ipynb) |
-| [ch7.2-dropout](ch7-regularization-and-normalization/ch7.2-dropout.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.2-dropout.ipynb) |
-| [ch7.3-batch-normalization](ch7-regularization-and-normalization/ch7.3-batch-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.3-batch-normalization.ipynb) |
-| [ch7.4-layer-normalization](ch7-regularization-and-normalization/ch7.4-layer-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.4-layer-normalization.ipynb) |
-| [ch7.5-instance-normalization](ch7-regularization-and-normalization/ch7.5-instance-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.5-instance-normalization.ipynb) |
-| [ch7.6-group-normalization](ch7-regularization-and-normalization/ch7.6-group-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.6-group-normalization.ipynb) |
-| [ch7.7-rms-normalization](ch7-regularization-and-normalization/ch7.7-rms-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.7-rms-normalization.ipynb) |
-| [ch7.8-normalization-unified-view](ch7-regularization-and-normalization/ch7.8-normalization-unified-view.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch7-regularization-and-normalization/ch7.8-normalization-unified-view.ipynb) |
+| [ch6.1-why-regularization-and-normalization](ch6-regularization-and-normalization/ch6.1-why-regularization-and-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.1-why-regularization-and-normalization.ipynb) |
+| [ch6.2-dropout](ch6-regularization-and-normalization/ch6.2-dropout.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.2-dropout.ipynb) |
+| [ch6.3-batch-normalization](ch6-regularization-and-normalization/ch6.3-batch-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.3-batch-normalization.ipynb) |
+| [ch6.4-layer-normalization](ch6-regularization-and-normalization/ch6.4-layer-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.4-layer-normalization.ipynb) |
+| [ch6.5-instance-normalization](ch6-regularization-and-normalization/ch6.5-instance-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.5-instance-normalization.ipynb) |
+| [ch6.6-group-normalization](ch6-regularization-and-normalization/ch6.6-group-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.6-group-normalization.ipynb) |
+| [ch6.7-rms-normalization](ch6-regularization-and-normalization/ch6.7-rms-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.7-rms-normalization.ipynb) |
+| [ch6.8-normalization-unified-view](ch6-regularization-and-normalization/ch6.8-normalization-unified-view.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch6-regularization-and-normalization/ch6.8-normalization-unified-view.ipynb) |
 
 ## ch9-attention-and-transformer
 
@@ -96,44 +96,14 @@
 | [ch10.1-attention-is-io-bound](ch10-efficient-attention/ch10.1-attention-is-io-bound.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch10-efficient-attention/ch10.1-attention-is-io-bound.ipynb) |
 | [ch10.2-flash-attention-v1](ch10-efficient-attention/ch10.2-flash-attention-v1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch10-efficient-attention/ch10.2-flash-attention-v1.ipynb) |
 
-## ch11-vision-transformers
+## ch11-gpt2-from-scratch
 
 | File | Colab |
 | :---: | :---: |
-| [ch11.1-from-cnn-to-vit](ch11-vision-transformers/ch11.1-from-cnn-to-vit.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-vision-transformers/ch11.1-from-cnn-to-vit.ipynb) |
-| [ch11.2-patch-embedding](ch11-vision-transformers/ch11.2-patch-embedding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-vision-transformers/ch11.2-patch-embedding.ipynb) |
-| [ch11.3-positional-embedding](ch11-vision-transformers/ch11.3-positional-embedding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-vision-transformers/ch11.3-positional-embedding.ipynb) |
-| [ch11.4-vit-encoder](ch11-vision-transformers/ch11.4-vit-encoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-vision-transformers/ch11.4-vit-encoder.ipynb) |
-| [ch11.5-vit-as-backbone](ch11-vision-transformers/ch11.5-vit-as-backbone.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-vision-transformers/ch11.5-vit-as-backbone.ipynb) |
-
-## ch13-autoencoders-and-vaes
-
-| File | Colab |
-| :---: | :---: |
-| [ch13.1-autoencoder](ch13-autoencoders-and-vaes/ch13.1-autoencoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch13-autoencoders-and-vaes/ch13.1-autoencoder.ipynb) |
-| [ch13.2-variational-autoencoder](ch13-autoencoders-and-vaes/ch13.2-variational-autoencoder.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch13-autoencoders-and-vaes/ch13.2-variational-autoencoder.ipynb) |
-| [ch13.3-elbo-vae-objective](ch13-autoencoders-and-vaes/ch13.3-elbo-vae-objective.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch13-autoencoders-and-vaes/ch13.3-elbo-vae-objective.ipynb) |
-| [ch13.4-vae-training-phenomena](ch13-autoencoders-and-vaes/ch13.4-vae-training-phenomena.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch13-autoencoders-and-vaes/ch13.4-vae-training-phenomena.ipynb) |
-| [ch13.5-vae-limitations-and-future-directions](ch13-autoencoders-and-vaes/ch13.5-vae-limitations-and-future-directions.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch13-autoencoders-and-vaes/ch13.5-vae-limitations-and-future-directions.ipynb) |
-
-## ch14-diffusion-models
-
-| File | Colab |
-| :---: | :---: |
-| [ch14.1-ddpm-basics](ch14-diffusion-models/ch14.1-ddpm-basics.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.1-ddpm-basics.ipynb) |
-| [ch14.2-ddpm-forward](ch14-diffusion-models/ch14.2-ddpm-forward.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.2-ddpm-forward.ipynb) |
-| [ch14.3-ddpm-reverse](ch14-diffusion-models/ch14.3-ddpm-reverse.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.3-ddpm-reverse.ipynb) |
-| [ch14.4-ddpm-design-and-sampling](ch14-diffusion-models/ch14.4-ddpm-design-and-sampling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.4-ddpm-design-and-sampling.ipynb) |
-| [ch14.5-elbo-for-ddpm](ch14-diffusion-models/ch14.5-elbo-for-ddpm.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch14-diffusion-models/ch14.5-elbo-for-ddpm.ipynb) |
-
-## ch18-gpt2-from-scratch
-
-| File | Colab |
-| :---: | :---: |
-| [ch18.1-next-token-prediction](ch18-gpt2-from-scratch/ch18.1-next-token-prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.1-next-token-prediction.ipynb) |
-| [ch18.2-minigpt](ch18-gpt2-from-scratch/ch18.2-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.2-minigpt.ipynb) |
-| [ch18.3-tokenizer](ch18-gpt2-from-scratch/ch18.3-tokenizer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.3-tokenizer.ipynb) |
-| [ch18.4-weight-tying](ch18-gpt2-from-scratch/ch18.4-weight-tying.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.4-weight-tying.ipynb) |
-| [ch18.5-train-minigpt](ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.5-train-minigpt.ipynb) |
-| [ch18.6-generation](ch18-gpt2-from-scratch/ch18.6-generation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.6-generation.ipynb) |
-| [ch18.7-gpt2-vs-minigpt](ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch18-gpt2-from-scratch/ch18.7-gpt2-vs-minigpt.ipynb) |
+| [ch11.1-next-token-prediction](ch11-gpt2-from-scratch/ch11.1-next-token-prediction.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.1-next-token-prediction.ipynb) |
+| [ch11.2-minigpt](ch11-gpt2-from-scratch/ch11.2-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.2-minigpt.ipynb) |
+| [ch11.3-tokenizer](ch11-gpt2-from-scratch/ch11.3-tokenizer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.3-tokenizer.ipynb) |
+| [ch11.4-weight-tying](ch11-gpt2-from-scratch/ch11.4-weight-tying.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.4-weight-tying.ipynb) |
+| [ch11.5-train-minigpt](ch11-gpt2-from-scratch/ch11.5-train-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.5-train-minigpt.ipynb) |
+| [ch11.6-generation](ch11-gpt2-from-scratch/ch11.6-generation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.6-generation.ipynb) |
+| [ch11.7-gpt2-vs-minigpt](ch11-gpt2-from-scratch/ch11.7-gpt2-vs-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/en/ch11-gpt2-from-scratch/ch11.7-gpt2-vs-minigpt.ipynb) |
