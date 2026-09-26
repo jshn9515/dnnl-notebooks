@@ -9,6 +9,7 @@
 | [ch1.3-computation-graph](ch1-introduction/ch1.3-computation-graph.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch1-introduction/ch1.3-computation-graph.ipynb) |
 | [ch1.4-gradient-descent](ch1-introduction/ch1.4-gradient-descent.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch1-introduction/ch1.4-gradient-descent.ipynb) |
 | [ch1.5-why-neural-networks-can-be-trained](ch1-introduction/ch1.5-why-neural-networks-can-be-trained.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch1-introduction/ch1.5-why-neural-networks-can-be-trained.ipynb) |
+| [ch1.6-exercises](ch1-introduction/ch1.6-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch1-introduction/ch1.6-exercises.ipynb) |
 
 ## ch2-pytorch-introduction
 
@@ -21,6 +22,7 @@
 | [ch2.5-optimizer](ch2-pytorch-introduction/ch2.5-optimizer.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch2-pytorch-introduction/ch2.5-optimizer.ipynb) |
 | [ch2.6-training-loop](ch2-pytorch-introduction/ch2.6-training-loop.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch2-pytorch-introduction/ch2.6-training-loop.ipynb) |
 | [ch2.7-checkpoint-resuming](ch2-pytorch-introduction/ch2.7-checkpoint-resuming.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch2-pytorch-introduction/ch2.7-checkpoint-resuming.ipynb) |
+| [ch2.8-exercises](ch2-pytorch-introduction/ch2.8-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch2-pytorch-introduction/ch2.8-exercises.ipynb) |
 
 ## ch3-multi-layer-perceptron
 
@@ -34,6 +36,7 @@
 | [ch3.6-train-mlp-on-mnist](ch3-multi-layer-perceptron/ch3.6-train-mlp-on-mnist.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch3-multi-layer-perceptron/ch3.6-train-mlp-on-mnist.ipynb) |
 | [ch3.7-gradient-checking](ch3-multi-layer-perceptron/ch3.7-gradient-checking.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch3-multi-layer-perceptron/ch3.7-gradient-checking.ipynb) |
 | [ch3.8-mlp-with-pytorch](ch3-multi-layer-perceptron/ch3.8-mlp-with-pytorch.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch3-multi-layer-perceptron/ch3.8-mlp-with-pytorch.ipynb) |
+| [ch3.9-exercises](ch3-multi-layer-perceptron/ch3.9-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch3-multi-layer-perceptron/ch3.9-exercises.ipynb) |
 
 ## ch4-optimization-algorithms
 
@@ -48,6 +51,7 @@
 | [ch4.7-muon](ch4-optimization-algorithms/ch4.7-muon.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch4-optimization-algorithms/ch4.7-muon.ipynb) |
 | [ch4.8-optimizer-practice](ch4-optimization-algorithms/ch4.8-optimizer-practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch4-optimization-algorithms/ch4.8-optimizer-practice.ipynb) |
 | [ch4.9-learning-rate-schedulers](ch4-optimization-algorithms/ch4.9-learning-rate-schedulers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch4-optimization-algorithms/ch4.9-learning-rate-schedulers.ipynb) |
+| [ch4.10-exercises](ch4-optimization-algorithms/ch4.10-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch4-optimization-algorithms/ch4.10-exercises.ipynb) |
 
 ## ch5-convolutional-neural-network
 
