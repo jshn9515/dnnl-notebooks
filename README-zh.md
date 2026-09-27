@@ -12,6 +12,6 @@
 
 本仓库为自动生成，请不要在这里提交 Pull Request。如有问题、建议或贡献，请前往 [jshn9515/deep-learning-notes](https://github.com/jshn9515/deep-learning-notes)。
 
-## License
+## 📄 License
 
 本仓库中的笔记内容采用 **CC BY-NC 4.0** 协议。
