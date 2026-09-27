@@ -92,6 +92,7 @@
 | [ch9.9-kv-cache](ch9-attention-and-transformer/ch9.9-kv-cache.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch9-attention-and-transformer/ch9.9-kv-cache.ipynb) |
 | [ch9.10-transformer-architectures](ch9-attention-and-transformer/ch9.10-transformer-architectures.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch9-attention-and-transformer/ch9.10-transformer-architectures.ipynb) |
 | [ch9.11-hugging-face-transformers-api](ch9-attention-and-transformer/ch9.11-hugging-face-transformers-api.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch9-attention-and-transformer/ch9.11-hugging-face-transformers-api.ipynb) |
+| [ch9.12-exercises](ch9-attention-and-transformer/ch9.12-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch9-attention-and-transformer/ch9.12-exercises.ipynb) |
 
 ## ch10-efficient-attention
 
