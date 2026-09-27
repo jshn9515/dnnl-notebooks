@@ -63,6 +63,7 @@
 | [ch5.4-pooling-and-downsampling](ch5-convolutional-neural-network/ch5.4-pooling-and-downsampling.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch5-convolutional-neural-network/ch5.4-pooling-and-downsampling.ipynb) |
 | [ch5.5-build-a-simple-cnn](ch5-convolutional-neural-network/ch5.5-build-a-simple-cnn.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch5-convolutional-neural-network/ch5.5-build-a-simple-cnn.ipynb) |
 | [ch5.6-lenet](ch5-convolutional-neural-network/ch5.6-lenet.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch5-convolutional-neural-network/ch5.6-lenet.ipynb) |
+| [ch5.7-exercises](ch5-convolutional-neural-network/ch5.7-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch5-convolutional-neural-network/ch5.7-exercises.ipynb) |
 
 ## ch6-regularization-and-normalization
 
@@ -76,6 +77,7 @@
 | [ch6.6-group-normalization](ch6-regularization-and-normalization/ch6.6-group-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch6-regularization-and-normalization/ch6.6-group-normalization.ipynb) |
 | [ch6.7-rms-normalization](ch6-regularization-and-normalization/ch6.7-rms-normalization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch6-regularization-and-normalization/ch6.7-rms-normalization.ipynb) |
 | [ch6.8-normalization-unified-view](ch6-regularization-and-normalization/ch6.8-normalization-unified-view.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch6-regularization-and-normalization/ch6.8-normalization-unified-view.ipynb) |
+| [ch6.9-exercises](ch6-regularization-and-normalization/ch6.9-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch6-regularization-and-normalization/ch6.9-exercises.ipynb) |
 
 ## ch9-attention-and-transformer
 
