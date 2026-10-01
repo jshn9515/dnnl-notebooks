@@ -114,6 +114,7 @@
 | [ch11.5-train-minigpt](ch11-gpt2-from-scratch/ch11.5-train-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch11-gpt2-from-scratch/ch11.5-train-minigpt.ipynb) |
 | [ch11.6-generation](ch11-gpt2-from-scratch/ch11.6-generation.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch11-gpt2-from-scratch/ch11.6-generation.ipynb) |
 | [ch11.7-gpt2-vs-minigpt](ch11-gpt2-from-scratch/ch11.7-gpt2-vs-minigpt.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch11-gpt2-from-scratch/ch11.7-gpt2-vs-minigpt.ipynb) |
+| [ch11.8-exercises](ch11-gpt2-from-scratch/ch11.8-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch11-gpt2-from-scratch/ch11.8-exercises.ipynb) |
 
 ## ch12-llm-training-engineering
 
@@ -129,6 +130,7 @@
 | [ch12.8-triton](ch12-llm-training-engineering/ch12.8-triton.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.8-triton.ipynb) |
 | [ch12.9-distributed-training](ch12-llm-training-engineering/ch12.9-distributed-training.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.9-distributed-training.ipynb) |
 | [ch12.10-large-model-checkpoint](ch12-llm-training-engineering/ch12.10-large-model-checkpoint.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.10-large-model-checkpoint.ipynb) |
+| [ch12.11-exercises](ch12-llm-training-engineering/ch12.11-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.11-exercises.ipynb) |
 
 ## ch19-sglang-serving
 
