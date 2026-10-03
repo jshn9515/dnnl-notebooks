@@ -131,9 +131,3 @@
 | [ch12.9-distributed-training](ch12-llm-training-engineering/ch12.9-distributed-training.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.9-distributed-training.ipynb) |
 | [ch12.10-large-model-checkpoint](ch12-llm-training-engineering/ch12.10-large-model-checkpoint.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.10-large-model-checkpoint.ipynb) |
 | [ch12.11-exercises](ch12-llm-training-engineering/ch12.11-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.11-exercises.ipynb) |
-
-## ch19-sglang-serving
-
-| File | Colab |
-| :---: | :---: |
-| [ch19.1-from-vllm-to-sglang](ch19-sglang-serving/ch19.1-from-vllm-to-sglang.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch19-sglang-serving/ch19.1-from-vllm-to-sglang.ipynb) |
