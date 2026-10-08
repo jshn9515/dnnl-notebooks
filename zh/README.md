@@ -132,6 +132,12 @@
 | [ch12.10-large-model-checkpoint](ch12-llm-training-engineering/ch12.10-large-model-checkpoint.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.10-large-model-checkpoint.ipynb) |
 | [ch12.11-exercises](ch12-llm-training-engineering/ch12.11-exercises.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch12-llm-training-engineering/ch12.11-exercises.ipynb) |
 
+## ch16-llm-inference
+
+| File | Colab |
+| :---: | :---: |
+| [ch16.1-inference-engine](ch16-llm-inference/ch16.1-inference-engine.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jshn9515/dnnl-notebooks/blob/main/zh/ch16-llm-inference/ch16.1-inference-engine.ipynb) |
+
 ## ch18-vllm-introduction
 
 | File | Colab |
