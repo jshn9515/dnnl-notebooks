@@ -1,0 +1,17 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended"],
+  "commitMessagePrefix": "DEP: ",
+  "rangeStrategy": "replace",
+  "timezone": "America/New_York",
+  "assignees": ["jshn9515"],
+  "addLabels": ["dependencies", "python"],
+  "packageRules": [
+    {
+      "description": "Ignore patch and minor updates for GitHub Actions",
+      "matchManagers": ["github-actions"],
+      "matchUpdateTypes": ["patch", "minor"],
+      "enabled": false
+    }
+  ]
+}
